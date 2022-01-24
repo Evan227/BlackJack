@@ -3,6 +3,6 @@ BlackJack game in console that also calculates different probabilities of events
 
 press 'h' to hit, 's' to stay, 'p' to display probabilities, or 'q' to quit when prompted.
 
-/var/folders/p3/323xvn7d4mnc1dc53_vqqwy00000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui)/Screen Shot 2022-01-23 at 10.55.42 PM.png
+![Screen Shot 2022-01-23 at 10 56 48 PM](https://user-images.githubusercontent.com/73192772/150719675-7781caa7-7cc1-4cfb-8c24-c26990063e26.png)
 
 
