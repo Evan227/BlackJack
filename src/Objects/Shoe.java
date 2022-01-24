@@ -41,4 +41,14 @@ public class Shoe {
 		return shoe.size();
 	}
 
+	public Card peek()
+	{
+		return shoe.get(0);
+	}
+	
+	public void pop()
+	{
+		shoe.remove(0);
+	}
+
 }

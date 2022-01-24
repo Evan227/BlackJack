@@ -28,4 +28,9 @@ public class Card {
 	{
 		return name;
 	}
+	
+	public String getCard()
+	{
+		return name + " of " +suit;
+	}
 }
